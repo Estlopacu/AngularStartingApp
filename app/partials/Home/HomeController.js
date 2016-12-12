@@ -1,6 +1,6 @@
 // Home Controller
 export default class HomeController{
-  constructor(){
-    this.caca = "assdfgfdsdf";
+  constructor(TestService){
+    this.test = TestService.sayHello().data.hi;
   }
 };

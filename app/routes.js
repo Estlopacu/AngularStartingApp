@@ -2,6 +2,6 @@ export default function routing($routeProvider) {
   $routeProvider.
      when('/', {
        templateUrl: 'app/partials/Home/Home.html',
-       controller: 'HomeController'
+       controller: 'HomeController as ctrl'
      });
 }
