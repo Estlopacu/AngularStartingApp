@@ -1,5 +1,6 @@
 import angular from 'angular';
 import ngRoute from 'angular-route';
+import 'bootstrap/dist/css/bootstrap.css';
 
 const app = angular.module("app", ["ngRoute"]);
 

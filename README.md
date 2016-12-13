@@ -16,10 +16,6 @@ For starting a new angular 1.x project using webpack.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
-
 ## Credits
 
 Made by Esteban López Acuña
