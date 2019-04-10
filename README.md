@@ -1,4 +1,4 @@
-# ANGULAR WITH WEBPACK STARTING APP
+# Angular with webpack starting app
 
 ## Installation
 
